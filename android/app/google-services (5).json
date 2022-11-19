@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198062821236",
+    "project_id": "tusome-c6a28",
+    "storage_bucket": "tusome-c6a28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198062821236:android:8f02d3252c1443302fe621",
+        "android_client_info": {
+          "package_name": "com.tusome.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198062821236-1jqol740htv3nefc0qikt477qbjia7ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPL0sfsmN-3-tSPCMuU96gWwWz1c7jOlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198062821236-1jqol740htv3nefc0qikt477qbjia7ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
