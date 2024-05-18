@@ -7,26 +7,26 @@ Teachers can benefit from LMS because it allows them to plan lessons, share note
 Tusome school is a newly established school that has a gradual increase in student population, which has led to a constraint on the school facilities. 
 Students also coming from different parts of the country have to relocate and find accommodation which can be stressful. The implementation of the learning management system will help the students access learning resources remotely while ensuring the school facilities are equally distributed. The learning management system will also ensure less constraint on the students while providing them with flexibility.
 # Objectives 
-•	To deliver course content via a web interface that caters to remote educational experiences for both students and instructors.
-•	To provide the ability to upload and manage documents containing curriculum content.
-•	To establish methods for assessments and testing for students.
+•	To deliver course content via a web interface that caters to remote educational experiences for both students and instructors. </br>
+•	To provide the ability to upload and manage documents containing curriculum content. </br>
+•	To establish methods for assessments and testing for students. </br>
 # Target customers
-•	Students will be able to connect with other students for student discussion, get in touch with teachers for real-time feedback.
-•	Instructors will have it easier to track attendance and progress.
-•	School administrators will be able to monitor both instructor and student engagement.
+•	Students will be able to connect with other students for student discussion, get in touch with teachers for real-time feedback. </br>
+•	Instructors will have it easier to track attendance and progress. </br>
+•	School administrators will be able to monitor both instructor and student engagement. </br>
 # Project scope
 Project deliverables
-•	The project will be divided into two sections. the instructors' and the students' sides
-•	Students will be able to log in, access their courses, and read and download their assignments on the client side.
-•	Instructors can log in using their registered credentials. uploading and downloading documents, keeping track of student records, and assigning grades.
+•	The project will be divided into two sections. the instructors' and the students' sides </br>
+•	Students will be able to log in, access their courses, and read and download their assignments on the client side. </br>
+•	Instructors can log in using their registered credentials. uploading and downloading documents, keeping track of student records, and assigning grades. </br>
 # Project constraints
-•	Time constraints depending on the number of project phases.
-•	Few devices to test on the app.
-•	It will only be accessible on smartphones.
-•	The learning management system will only be accessed via the internet.
+•	Time constraints depending on the number of project phases. </br>
+•	Few devices to test on the app. </br>
+•	It will only be accessible on smartphones. </br>
+•	The learning management system will only be accessed via the internet. </br>
 # Application features and description
-•	Both students and instructors will be required to log in with their official credentials.
-•	Students will get notifications and messages on new assignments.
-•	A homepage on students’ accounts which contains the dashboard, courses, and grades.
-•	A homepage for the instructor to keep track of submitted assignments, upload and download documents.
+•	Both students and instructors will be required to log in with their official credentials. </br>
+•	Students will get notifications and messages on new assignments. </br>
+•	A homepage on students’ accounts which contains the dashboard, courses, and grades. </br>
+•	A homepage for the instructor to keep track of submitted assignments, upload and download documents. </br>
 •	The students will be able to upload and download documents on the system.
