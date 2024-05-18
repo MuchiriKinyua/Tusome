@@ -15,7 +15,7 @@ Students also coming from different parts of the country have to relocate and fi
 •	Instructors will have it easier to track attendance and progress. </br>
 •	School administrators will be able to monitor both instructor and student engagement. </br>
 # Project scope
-Project deliverables
+Project deliverables  </br>
 •	The project will be divided into two sections. the instructors' and the students' sides </br>
 •	Students will be able to log in, access their courses, and read and download their assignments on the client side. </br>
 •	Instructors can log in using their registered credentials. uploading and downloading documents, keeping track of student records, and assigning grades. </br>
